@@ -3,15 +3,13 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-  [Info](#Info)
-  [Features](#Features)
+* [Info](#Info)
+* [Features](#Features)
 
 ## Instructions
 - scroll
 - click top button
 - click navbar elements
-
-# Heading 1 Hello
 
 ## info
 the project is about converting landing page from static to dynamic
